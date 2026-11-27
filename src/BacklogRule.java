@@ -2,7 +2,7 @@ class BacklogRule extends EligibilityRule {
 
     @Override
     public String getRuleName() {
-        return "Backlog Rule";
+        return "Backlog";
     }
 
     @Override

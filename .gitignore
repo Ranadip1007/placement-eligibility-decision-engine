@@ -1,1 +1,4 @@
 *.class
+
+int selectedJobIndex = scanner.nextInt();
+        Job selectedJob = jobs[selectedJobIndex - 1];

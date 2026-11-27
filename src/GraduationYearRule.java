@@ -2,7 +2,7 @@ class GraduationYearRule extends EligibilityRule {
 
     @Override
     public String getRuleName() {
-        return "Graduation Year Rule";
+        return "Graduation Year ";
     }
 
     @Override

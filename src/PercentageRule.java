@@ -2,7 +2,7 @@ public class PercentageRule extends EligibilityRule {
 
     @Override
     public String getRuleName() {
-        return "Percentage Rule";
+        return "Percentage";
     }
 
     @Override
